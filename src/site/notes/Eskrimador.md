@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eskrimador/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/eskrimador/","tags":["gardenEntry"],"dgShowInlineTitle":true}
 ---
 
 Eskrimador is meant to be a tactical, gritty, and survival focused roleplaying game.
