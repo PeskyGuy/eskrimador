@@ -25,4 +25,3 @@ The core attributes of combat are: Evasion and Armor. The first is a representat
 **Hazards and Cover**
 There are many hazards in Eskrimador, these can be cliffs, chasms, or dangerous flora. Here are a few examples:
 
-
