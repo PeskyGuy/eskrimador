@@ -5,7 +5,6 @@
 Eskrimador is meant to be a tactical, gritty, and survival focused roleplaying game.
 
 See [[Eskrimador Notes\|Eskrimador Notes]] for other notes.
-
 # Core Mechanics
 
 - Characters go from 0 to 20 levels with an additional 10 levels for a prestige system.
@@ -24,6 +23,5 @@ The core attributes of combat are: Evasion and Armor. The first is a representat
 
 **Hazards and Cover**
 There are many hazards in Eskrimador, these can be cliffs, chasms, or dangerous flora. Here are a few examples:
-
 
 
