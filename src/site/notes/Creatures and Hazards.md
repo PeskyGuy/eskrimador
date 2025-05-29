@@ -11,6 +11,7 @@ There are four hazard levels for fauna and flora.
 - ### IV - HIGH
 - ### V - VERY HIGH
 
+___
 
 <div style="border: 2px solid #2c1810; border-radius: 8px; padding: 15px; background-color: #f9f5f0; margin: 10px 0;">
     <!-- Header Section -->
