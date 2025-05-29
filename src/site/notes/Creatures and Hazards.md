@@ -14,13 +14,13 @@
     </div>
     
     <!-- Actions & Traits Section -->
-    <div style="margin-top: 20px;">
+    <div style="margin-top: 5px;">
         <h3 style="margin: 0 0 15px 0; color: #2c1810;">Actions & Traits</h3>
         
         <!-- Action Example -->
         <div style="border-left: 3px solid #2c1810; padding-left: 15px; margin: 10px 0;">
             <strong style="color: #2c1810;">[Action Name]</strong>
-            <div style="color: #5c3d2e; font-style: italic; margin-top: 5px;">[Action Description]</div>
+            <div style="color: #5c3d2e; font-style: italic; margin-top: 2px;">[Action Description]</div>
         </div>
         
         <!-- You can copy the action div above to add more actions -->
