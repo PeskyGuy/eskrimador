@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/creatures-and-hazards/"}
 ---
 
-```html
 <style>
 .hazard-statblock {
     font-family: 'Noto Serif JP', serif;
@@ -107,5 +106,3 @@
         <!-- Additional actions can be added here -->
     </div>
 </div>
-
-```
