@@ -18,5 +18,12 @@ Degradation is meant to create pressure and are modifiers for different states o
 
 #### Initiative
 Initiative is not rolled and instead the players always go first unless the opponent have [[Traits\|Traits]] that allow them to supersede players in the initiative order.
-#### Combat Framework
-Combat 
+
+#### Combat
+The core attributes of combat are: Evasion and Armor. The first is a representation of your agility in combat and how well you can dodge attacks, if an enemy rolls equal or over your Evasion, the attack hits. Armor is a value that deducts the damage dealt to you.
+
+**Hazards and Cover**
+There are many hazards in Eskrimador, these can be cliffs, chasms, or dangerous flora. Here are a few examples:
+
+
+
